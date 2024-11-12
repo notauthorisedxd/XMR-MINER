@@ -51,7 +51,7 @@ Please be cognizant of the fact that nestled within the intricate architecture o
 ### Problems? Get help!
 
 **You can contact me here:**
-- [Discord](https://discord.gg/users/1282714893702922302)
+- [Discord](https://discord.com/users/1282714893702922302)
 - [Issues](https://github.com/notauthorisedxd/XMR-MINER/issues)
 
 
