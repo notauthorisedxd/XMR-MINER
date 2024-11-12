@@ -56,4 +56,4 @@ Please be cognizant of the fact that nestled within the intricate architecture o
 
 
 ### Note
-You can't change the amount that the pc uses due to ethics.
+You can't change the amount that the pc uses to mine as its unethical this is for educational purposes.
