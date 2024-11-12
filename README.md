@@ -54,3 +54,6 @@ Please be cognizant of the fact that nestled within the intricate architecture o
 - [Discord](https://discord.gg/users/1282714893702922302)
 - [Issues](https://github.com/notauthorisedxd/XMR-MINER/issues)
 
+
+### Note
+You can't change the amount that the pc uses due to ethics.
